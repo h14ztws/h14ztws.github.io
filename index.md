@@ -8,7 +8,7 @@ title: 杭十四中天文社 Hangzhou No.14 High School Astronomy Association
 
 Here is Zhejiang Province Hangzhou No.14 High School Astronomy Association. You can learn something about us.
 
-![14AA](tws.jpg)
+<img src="tws.jpg">
 
 ### 关于我们 About us
 
@@ -22,7 +22,7 @@ We are committed to astronomy and astrophotography, and we have achieved good re
 
 ### 天文台 Observatory
 
-<img style="float: right;" src="FQO.jpg">
+<img style="float: right;" src="fqo.jpg">
 
 杭十四中坐落在美丽的西湖旁，宝石山脚下。我们的天文台就位于校园内，在第二教学楼的顶端。
 

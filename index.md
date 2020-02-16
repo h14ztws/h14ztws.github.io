@@ -20,6 +20,8 @@ We are committed to astronomy and astrophotography, and we have achieved good re
 
 ### 天文台 Observatory
 
+<img style="float: right;" src="FQO.jpg">
+
 杭十四中坐落在美丽的西湖旁，宝石山脚下。我们的天文台就位于校园内，在第二教学楼的顶端。
 
 Hangzhou No.14 High School is located by the beautiful West Lake, at the foot of Baoshi Mountain. Our observatory is located on campus, at the top of the 2nd teaching building.
@@ -41,3 +43,7 @@ During the holidays, we will organize some observation activities to the Jiangna
 ### 联系我们 Contact Us
 
 Email: [h14ztws@126.com](mailto:h14ztws@126.com)
+
+QQ: 1873144146
+
+Bilibili: https://space.bilibili.com/317033762

@@ -8,6 +8,8 @@ title: 杭十四中天文社 Hangzhou No.14 High School Astronomy Association
 
 Here is Zhejiang Province Hangzhou No.14 High School Astronomy Association. You can learn something about us.
 
+![14AA](tws.jpg)
+
 ### 关于我们 About us
 
 我们正式成立于2014年，是杭州市天文学会的会员单位，也是杭州市高中天文联合会的创始单位。
@@ -32,6 +34,8 @@ There are a large number of astronomical equipment here, the most notable of whi
 
 ### 实践基地 Practice Base
 
+<img src="jntc.jpg">
+
 我们也拥有一个环境不错的活动实践基地，位于浙江省湖州市安吉县天荒坪镇的江南天池风景区。
 
 We also have a practice base with good environment, located in Jiangnantianchi, Tianhuangping, Anji, Huzhou, Zhejiang Province, China.
@@ -46,4 +50,4 @@ Email: [h14ztws@126.com](mailto:h14ztws@126.com)
 
 QQ: 1873144146
 
-Bilibili: https://space.bilibili.com/317033762
+Bilibili: [https://space.bilibili.com/317033762](https://space.bilibili.com/31703376)

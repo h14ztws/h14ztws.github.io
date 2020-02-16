@@ -34,7 +34,7 @@ There are a large number of astronomical equipment here, the most notable of whi
 
 ### 实践基地 Practice Base
 
-<img src="jntc.jpg">
+<img style="float: right;" src="jntc.jpg">
 
 我们也拥有一个环境不错的活动实践基地，位于浙江省湖州市安吉县天荒坪镇的江南天池风景区。
 
@@ -50,4 +50,4 @@ Email: [h14ztws@126.com](mailto:h14ztws@126.com)
 
 QQ: 1873144146
 
-Bilibili: [https://space.bilibili.com/317033762](https://space.bilibili.com/31703376)
+Bilibili: [https://space.bilibili.com/317033762](https://space.bilibili.com/317033762)

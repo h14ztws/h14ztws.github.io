@@ -22,7 +22,7 @@ We are committed to astronomy and astrophotography, and we have achieved good re
 
 ### 天文台 Observatory
 
-<img style="float: right;" src="fqo.jpg">
+<img src="fqo.jpg">
 
 杭十四中坐落在美丽的西湖旁，宝石山脚下。我们的天文台就位于校园内，在第二教学楼的顶端。
 
@@ -34,7 +34,7 @@ There are a large number of astronomical equipment here, the most notable of whi
 
 ### 实践基地 Practice Base
 
-<img style="float: right;" src="jntc.jpg">
+<img src="jntc.jpg">
 
 我们也拥有一个环境不错的活动实践基地，位于浙江省湖州市安吉县天荒坪镇的江南天池风景区。
 

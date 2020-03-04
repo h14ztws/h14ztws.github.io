@@ -1,3 +1,32 @@
-title: 杭十四中天文社
-description: Hangzhou No.14 High School Astronomy Association
-theme: jekyll-theme-slate
+# Site settings
+title: "Hangzhou No.14 High School Astronomy Association"
+name: "杭十四中天文社"
+email: h14ztws@126.com
+url: https://h14ztws.github.io
+description: "Welcome! We are students' astronomy association in Hangzhou No.14 High School. Here is our home page!"
+keywords: "astronomy,student,high school,club,observatory"
+
+# Footer settings
+footer:
+  copyright: Hangzhou No.14 High School Astronomy Association
+  location: Location
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: email
+    url: mailto:h14ztws@126.com
+  - title: github
+    url: http://github.com/h14ztws
+  - title: bilibili
+    url: https://space.bilibili.com/317033762
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Hangzhou No.14 High School Astronomy Association
+  - line: 580 Fengqi Rd., Xiacheng Dist.,
+  - line: Hangzhou, Zhejiang Province, China 310006
+
+# Credits content
+credits: 'This website is based on Jekyll theme <a href="https://github.com/jeromelachaud/freelancer-theme">Freelancer</a>.'

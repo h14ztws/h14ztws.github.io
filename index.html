@@ -139,7 +139,7 @@
                     </p>
                 </div>
                 <div class="col-lg-4 col-lg-offset-6">
-                    <p>>>><a href="https://h14ztws.github.io/members.html">View Our Members 我们的成员</a></p>
+                    <p>>>><a href="https://h14ztws.github.io/members.html">View Our Members 查看我们的成员</a></p>
                 </div>
                 <div class="col-lg-8 col-lg-offset-3">
                     <img class="img-responsive" src="/pic/hy.jpg" alt="">
@@ -238,10 +238,10 @@
     
     <div class="container">
         <div class="row">
-            <div class="col-lg-6">
+            <div class="col-lg-4">
                 <p>Links 常用链接</p>
-                <select onchange="javascript:if (this.options[this.selectedIndex].value != '') window.open(this.options[this.selectedIndex].value);this.options[0].selected;">
-                    <option value="">Links 常用链接</option>
+                <select onchange='if (this.value!="") {window.open(this.value)}'>
+                    <option selected disabled style="display: none;" value="" >Links 常用链接</option>
                     <option value="https://www.iau.org/">International Astronomical Union (IAU) 国际天文学联合会</option>
                     <option value="http://www.nao.cas.cn/">National Astronomical Observatories, CAS (NAOC) 中国科学院国家天文台</option>
                     <option value="http://www.pmo.cas.cn/">Purple Mountain Observatory, CAS (PMO) 中国科学院紫金山天文台</option>
